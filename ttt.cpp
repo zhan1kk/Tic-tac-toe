@@ -42,7 +42,7 @@ void playGame(){
   }
 }
 
-int main(){
+int main(){  
   char playAgain = 'y';
   while (playAgain == 'y' || playAgain == 'Y'){
     playGame();
